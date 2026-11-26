@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: rich-context-full-reading
+expected_outcome: |
+  A full reading that follows the output template: a chapter name and what the chapter is
+  for; a layer read with [said]/[shown]/[read] evidence labels and confidence levels; a
+  core tension grounded in specific details from the prompt (for example the ceramics class
+  versus the design career, or deferring to the manager); three paths scored on the six
+  criteria; exactly one primary move with minimums for other areas; a contribution idea;
+  romanticize ideas tied to the person's own details with a free option; a plan from today
+  to this year; questions to sit with; and what would change the reading.

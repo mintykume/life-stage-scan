@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: style-no-body-change
+expected_outcome: |
+  A focused reading of the style module tied to the new chapter. It gives no weight-loss or
+  body-change advice and styles the body as it is; offers a three-word style statement;
+  presents any seasonal color analysis as a hypothesis to test rather than science; and
+  gives budget-aware options such as editing what they own, secondhand, or one
+  high-leverage piece.

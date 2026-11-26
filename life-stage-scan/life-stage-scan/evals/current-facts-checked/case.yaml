@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: current-facts-checked
+expected_outcome: |
+  A quick read that recommends one next move, keeps teaching at a maintained minimum or
+  explains the trade-off, and uses web search before naming any specific program, course,
+  deadline or funding. Contribution uses the person's current position, for example the
+  science club or students.
